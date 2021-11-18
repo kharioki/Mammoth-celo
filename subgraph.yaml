@@ -1,6 +1,6 @@
-specVersion: 0.0.2
+specVersion: 0.0.3
 description: Gravatar contract subgraph for Celo
-repository: https://github.com/secretshardul/the-graph-celo
+repository: https://github.com/kharioki/Mammoth-celo
 schema:
   file: ./schema.graphql
 dataSources:
